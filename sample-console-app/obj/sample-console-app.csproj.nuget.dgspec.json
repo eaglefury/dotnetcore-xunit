@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gauravkapoor/Source/Personal/dotnetcore-xunit/sample-console-app/sample-console-app.csproj": {}
+  },
+  "projects": {
+    "/Users/gauravkapoor/Source/Personal/dotnetcore-xunit/sample-console-app/sample-console-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gauravkapoor/Source/Personal/dotnetcore-xunit/sample-console-app/sample-console-app.csproj",
+        "projectName": "sample-console-app",
+        "projectPath": "/Users/gauravkapoor/Source/Personal/dotnetcore-xunit/sample-console-app/sample-console-app.csproj",
+        "packagesPath": "/Users/gauravkapoor/.nuget/packages/",
+        "outputPath": "/Users/gauravkapoor/Source/Personal/dotnetcore-xunit/sample-console-app/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gauravkapoor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
